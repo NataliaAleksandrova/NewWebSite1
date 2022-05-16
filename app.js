@@ -1,6 +1,9 @@
-const express = require('express')
-const config = require('config')
-const mongoose = require('mongoose')
+//const express = require('express')
+import express from 'express';
+//const config = require('config')
+import config from 'config';
+//const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 
 const app = express()
 
