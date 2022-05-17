@@ -25,7 +25,8 @@
     "config": "^3.3.7",
     "express": "^4.18.1",
     "mjs-require": "^0.1.3",
-    "mongoose": "^6.3.3"
+    "mongoose": "^6.3.3",
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "concurrently": "^7.2.0",
